@@ -8,3 +8,14 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 score = int(input())
+
+if score >=80 :
+ print("A")
+if score >=70 :
+ print("B")
+if score >=60:
+ print("C")
+if score >=50:
+ print("D")
+else :
+ print("F")
